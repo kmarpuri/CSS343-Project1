@@ -1,4 +1,4 @@
-# stlvector
+# CSS343-Project1
 
 Partial implementation of STL Vector
 
